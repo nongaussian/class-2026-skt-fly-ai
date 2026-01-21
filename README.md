@@ -4,7 +4,7 @@
  
 ## Part 1. Introduction to Reinforcement Learning
 
-- [P01-1. Introduction to Reinforcement Learning (pytorch) - upload.pdf](https://github.com/user-attachments/files/16267397/P01-1.Introduction.to.Reinforcement.Learning.pytorch.-.upload.pdf)
+- [P01-1. Introduction to Reinforcement Learning (pytorch).pdf](https://github.com/user-attachments/files/24773269/P01-1.Introduction.to.Reinforcement.Learning.pytorch.pdf)
 - [P01-2_backpropagation - upload.pdf](https://github.com/user-attachments/files/16246790/P01-2_backpropagation.-.upload.pdf)
 - [P1. atari-breakout-cuda.zip](https://github.com/user-attachments/files/21137927/P1.atari-breakout-cuda.zip)
 
